@@ -1,3 +1,6 @@
 [submodule "map"]
 	path = map
 	url = git@github.com:rxi/map.git
+[submodule "argparse"]
+	path = argparse
+	url = git@github.com:cofyc/argparse.git
