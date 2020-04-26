@@ -1,0 +1,3 @@
+[submodule "map"]
+	path = map
+	url = git@github.com:rxi/map.git
