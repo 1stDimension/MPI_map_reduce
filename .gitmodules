@@ -4,3 +4,6 @@
 [submodule "argparse"]
 	path = argparse
 	url = git@github.com:cofyc/argparse.git
+[submodule "c-vector"]
+	path = c-vector
+	url = git@github.com:eteran/c-vector.git
